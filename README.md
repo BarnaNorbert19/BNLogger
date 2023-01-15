@@ -1,1 +1,3 @@
 # Logger
+
+Cross platform Logger
